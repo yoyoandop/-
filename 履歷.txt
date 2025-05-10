@@ -1,0 +1,56 @@
+Name: 
+Email: 
+Github: 
+—————————— 
+2024 東華大學資訊工程系畢 
+ ——————————
+嗨，我是XXX，2024畢業於東華資訊工程系。 擅長c,c++, Java, SQL語言。役畢後曾擔任Java軟體工程師xx月，負責web後端資料庫相關開發。 後來因對嵌入式系統產生興趣，自學STM32做出小型專案。 目前期望找XX產品開發職務可結合自身興趣做出貢獻。
+
+ —————————— 工作經歷 
+XXX 公司 202x/x/x - 202y/y/y 
+擔任 Java 後端軟體工程師 。
+負責開發 
+。Rustful API 
+。前端串後端 
+工具 
+。Java, SQL, git
+————————— 技能專長 
+嵌入式開發（STM32 / HAL）
+•	STM32CubeIDE / HAL Library
+•	GPIO 控制 / 外部中斷 EXTI / UART / DMA / I2C / RTC / Timer / Rotary Encoder
+◼ 程式語言與資料結構
+•	C / C++（熟悉指標、動態記憶體、二元樹、stack/queue/double linked list 等）
+•	Java（物件導向設計、Spring Boot 框架應用）
+•	SQL（基本查詢、資料表設計）
+◼ Web 基礎
+•	Java Spring Boot + Vue.js 前後端分離架構
+•	RESTful API 設計、JWT 登入
+◼ 工具 & 版本控制
+•	STM32CubeIDE、IntelliJ IDEA、Git、Postman
+◼ 外語能力
+•	JLPT N1（具備良好的日文閱讀能力）
+
+自傳
+嗨，我是XXX，我的專長是c/c++資料結構，java物件導向和sql語法，對於mcu韌體產業有高度興趣，因此自學了stm32，做了時鐘日歷的小型專案。 此外，曾於 Java 後端開發團隊中使用restfual api/資料庫/git版本控制，具備基本 Web 後端開發與 SQL 操作能力。未來希望專注於 C/C++ 韌體開發領域，持續累積硬體控制經驗，並貢獻於穩定可靠的嵌入式產品開發。
+專案成就
+STM32 時鐘日曆系統 with Rotary Encoder (C語言)
+開發平台：STM32CubeIDE、HAL 驅動庫
+開發語言：C
+顯示模組：OLED（使用自定義字型與圖形介面）
+使用者介面：旋鈕編碼器（支援方向旋轉與按壓）
+專案期間：2025/05 – 2025/05
+________________________________________
+專案簡介：
+使用 STM32透過旋鈕進行時間設定，結合 OLED 螢幕顯示年/月/日、時/分/秒與星期。
+________________________________________
+
+一個會員登入登出發文留言前後端
+採用java spring boot + vue.js + mysql 
+有1.註冊功能 2.登入功能 3.發文功能 4.留言功能 5.登出功能
+
+
+
+
+
+
+
